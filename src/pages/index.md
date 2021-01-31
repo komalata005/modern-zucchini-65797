@@ -70,8 +70,9 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Ver friendly and does whatever you ask her to do.. i got almost 10
+          posters designed for my academy page and all of them were did in a
+          very short time and with perfection and very little revisions.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
