@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Skills",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
