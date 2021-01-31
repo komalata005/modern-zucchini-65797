@@ -1,6 +1,6 @@
 ---
 title: CBD Oil
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2018-12-18'
 thumb_image: images/26dec.jpg
 thumb_image_alt: A handheld game console on a yellow background
