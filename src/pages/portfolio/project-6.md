@@ -4,7 +4,7 @@ subtitle: ''
 date: '2018-12-18'
 thumb_image: images/26dec.jpg
 thumb_image_alt: ''
-image_alt: A handheld game console on a yellow background
+image_alt: ''
 template: project
 ---
 
