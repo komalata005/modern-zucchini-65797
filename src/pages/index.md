@@ -69,6 +69,10 @@ sections:
           Very friendly and does whatever you ask her to do.. i got almost 10
           posters designed for my academy page and all of them were did in a
           very short time and with perfection and very little revisions.
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
   - title: Qualification
     section_id: lorem-ipsum
     subtitle: BS Software Engineering from SSUET (2016-2019).
