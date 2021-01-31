@@ -76,7 +76,7 @@ sections:
         avatar: images/123495194_201223891384190_6253951174501713603_n.jpg
       - author: Junaid Maqsood
         avatar_alt: lorem-ipsum
-        content: lorem-ipsum
+        content: Creative UI designer for mobile apps.Stay blessed!!
         type: testimonial
   - title: Qualification
     section_id: lorem-ipsum
