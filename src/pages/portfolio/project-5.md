@@ -4,7 +4,7 @@ subtitle: ''
 date: '2019-01-05'
 thumb_image: images/splendid-basil.png
 thumb_image_alt: ''
-image_alt: A white gamepad on a green background
+image_alt: ''
 template: project
 ---
 
