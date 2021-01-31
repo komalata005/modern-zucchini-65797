@@ -69,7 +69,7 @@ sections:
           Very friendly and does whatever you ask her to do.. i got almost 10
           posters designed for my academy page and all of them were did in a
           very short time and with perfection and very little revisions.
-      - author: lorem-ipsum
+      - author: Babar Hussain
         avatar_alt: lorem-ipsum
         content: >-
           I am proud to have you as a part of team 360 Digital Eyes and was
