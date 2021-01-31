@@ -4,7 +4,7 @@ subtitle: ''
 date: '2019-02-26'
 thumb_image: images/CustomerRetentation.png
 thumb_image_alt: ''
-image_alt: A table tennis racket on a pink background
+image_alt: ''
 template: project
 ---
 
