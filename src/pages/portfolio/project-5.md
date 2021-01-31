@@ -3,7 +3,7 @@ title: Banner_E-commerce_Sale
 subtitle: ''
 date: '2019-01-05'
 thumb_image: images/splendid-basil.png
-thumb_image_alt: A white gamepad on a green background
+thumb_image_alt: ''
 image: images/5.jpg
 image_alt: A white gamepad on a green background
 template: project
