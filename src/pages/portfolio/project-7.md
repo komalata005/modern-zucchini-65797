@@ -1,6 +1,6 @@
 ---
 title: Derma_dr_standee
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2018-01-15'
 thumb_image: images/superb-tomato.jpeg
 thumb_image_alt: A black headphones on a yeallow background
