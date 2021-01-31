@@ -39,10 +39,10 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
       - title: Web Development
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          I will develop or customize the website from scratch or update/manage
+          the existing website for you, A really creative website developer is
+          here to assist.
       - title: App Development
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
