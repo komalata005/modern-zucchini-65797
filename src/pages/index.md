@@ -81,7 +81,10 @@ sections:
         avatar: images/82931994_4079223302103292_5066588274152177664_o.jpg
       - author: lorem-ipsum
         avatar_alt: lorem-ipsum
-        content: lorem-ipsum
+        content: >-
+          Awesome graphic design and animation videos for business. Professional
+          Logo design and Grafics for website design UI designer for web and
+          mobile apps.11
         type: testimonial
   - title: Qualification
     section_id: lorem-ipsum
