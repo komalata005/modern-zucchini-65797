@@ -37,10 +37,9 @@ sections:
           I would love to design User interface & Experience for your App &
           Website, 
       - title: Graphic Designing
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          I provide illustrations, Icon, Menu, Invitations cards, social media
+          posts, standee, tri fold brouchers all kind of digital designing work.
       - title: Web Development
         content: >
           I will develop or customize the website from scratch or update/manage
