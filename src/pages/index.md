@@ -61,7 +61,7 @@ sections:
           company  for web design work
       - author: Hannan Sheikh
         avatar: images/67710123_2216317668658945_5448135752636432384_n.jpg
-        avatar_alt: Aubrey Hoover's photo
+        avatar_alt: Hannan Sheikh photo
         content: >-
           such a good experience to work with her. a really good and creative
           designer and very friendly. and does everything i ask her. deliver
