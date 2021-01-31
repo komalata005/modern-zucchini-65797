@@ -83,6 +83,10 @@ sections:
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
         type: testimonial
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
   - title: Qualification
     section_id: lorem-ipsum
     subtitle: BS Software Engineering from SSUET (2016-2019).
