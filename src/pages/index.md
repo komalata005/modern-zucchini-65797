@@ -79,7 +79,7 @@ sections:
         content: Creative UI designer for mobile apps.Stay blessed!!
         type: testimonial
         avatar: images/82931994_4079223302103292_5066588274152177664_o.jpg
-      - author: lorem-ipsum
+      - author: Faisal Tariq
         avatar_alt: lorem-ipsum
         content: >-
           Awesome graphic design and animation videos for business. Professional
