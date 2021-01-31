@@ -48,16 +48,6 @@ sections:
           the existing website for you.
       - title: App Development
         content: "I would love to develop any kind of custom Android/IOS App for you. I will\_provide a very responsive and attractive design along with a bug free code. The product will be exactly like the concept you have in your mind.\n\n\n"
-  - section_id: latest-posts
-    type: section_posts
-    title: Education
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
@@ -81,5 +71,15 @@ sections:
           Very friendly and does whatever you ask her to do.. i got almost 10
           posters designed for my academy page and all of them were did in a
           very short time and with perfection and very little revisions.
+  - section_id: latest-posts
+    type: section_posts
+    title: Education
+    subtitle: An optional subtitle of the section
+    posts_number: 3
+    col_number: three
+    actions:
+      - label: View Blog
+        url: blog
+        style: button
 template: advanced
 ---
