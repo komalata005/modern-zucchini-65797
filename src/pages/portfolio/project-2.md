@@ -1,6 +1,6 @@
 ---
 title: Floral Scarfs Logo
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-04-30'
 thumb_image: images/b72f70108754731.5fc5121e9c6fe.jpg
 thumb_image_alt: An orange on a blue background
