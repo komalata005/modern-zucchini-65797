@@ -86,6 +86,7 @@ sections:
           Logo design and Grafics for website design UI designer for web and
           mobile apps.11
         type: testimonial
+        avatar: images/30167909_171157203709387_6232671499475111054_o.jpg
   - title: Qualification
     section_id: lorem-ipsum
     subtitle: BS Software Engineering from SSUET (2016-2019).
