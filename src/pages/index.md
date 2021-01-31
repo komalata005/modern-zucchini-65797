@@ -71,7 +71,7 @@ sections:
           Very friendly and does whatever you ask her to do.. i got almost 10
           posters designed for my academy page and all of them were did in a
           very short time and with perfection and very little revisions.
-  - title: lorem-ipsum
+  - title: Qualification
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
