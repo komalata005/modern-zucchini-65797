@@ -41,8 +41,7 @@ sections:
       - title: Web Development
         content: >
           I will develop or customize the website from scratch or update/manage
-          the existing website for you, A really creative website developer is
-          here to assist.
+          the existing website for you.
       - title: App Development
         content: "I would love to develop any kind of custom Android/IOS App for you. I will\_provide a very responsive and attractive design along with a bug free code. The product will be exactly like the concept you have in your mind.\n\n\n"
   - section_id: testimonials
