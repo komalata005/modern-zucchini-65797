@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Botsify Home Page
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/474eee110170567.5fe5c5e53ae9b.jpg
