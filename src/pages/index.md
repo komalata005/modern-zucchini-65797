@@ -44,9 +44,7 @@ sections:
           the existing website for you, A really creative website developer is
           here to assist.
       - title: App Development
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: "I would love to develop any kind of custom Android/IOS App for you. I will\_provide a very responsive and attractive design along with a bug free code. The product will be exactly like the concept you have in your mind.\n\n\n"
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
