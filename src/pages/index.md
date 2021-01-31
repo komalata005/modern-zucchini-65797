@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Komal Ata , Welcome to my portfolio'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I'm BS (Software Engineer), from Ssuet , & work as a Ui/Ux & Graphic
+      Designers in Botsify Lnc. I like to code, but designing softwares & apps
+      is my passion. 
     actions:
       - label: Let's talk
         url: /contact
