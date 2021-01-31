@@ -59,7 +59,7 @@ sections:
         content: >-
           I am very  satisfied  from there work. I highly  recommend the
           company  for web design work
-      - author: Aubrey Hoover
+      - author: Hannan Sheikh
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
