@@ -78,6 +78,7 @@ sections:
         avatar_alt: lorem-ipsum
         content: Creative UI designer for mobile apps.Stay blessed!!
         type: testimonial
+        avatar: images/82931994_4079223302103292_5066588274152177664_o.jpg
   - title: Qualification
     section_id: lorem-ipsum
     subtitle: BS Software Engineering from SSUET (2016-2019).
