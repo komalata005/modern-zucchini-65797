@@ -71,16 +71,6 @@ sections:
           Very friendly and does whatever you ask her to do.. i got almost 10
           posters designed for my academy page and all of them were did in a
           very short time and with perfection and very little revisions.
-  - section_id: latest-posts
-    type: section_posts
-    title: Education
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
