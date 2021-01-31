@@ -73,5 +73,6 @@
             }
         ]
     },
-    "title": "Portfolio"
+    "title": "Portfolio",
+    "favicon": "images/k_logo.png"
 }
