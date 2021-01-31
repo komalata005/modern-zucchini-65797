@@ -71,19 +71,7 @@ sections:
           very short time and with perfection and very little revisions.
       - author: Babar Hussain
         avatar_alt: lorem-ipsum
-        content: >-
-          I am proud to have you as a part of team 360 Digital Eyes and was
-          bestowed with the opportunity of guiding and teaching you. Komal Ata,
-          you are a very hard-working, motivated and capable girl who is capable
-          enough to conquer this world. I am very happy and greatly impressed
-          with your decision of starting a venture Komal. May God bless you and
-          strengthen you to take this startup to new heights of success. You
-          have worked very hard with utmost dedication as a part of my team and
-          I am sure you will work with double the stamina and energy to take
-          your startup to its full potential and make it a success.
-          Congratulations on the start of this new journey. Babar Hussain 
-          Founder & Executive 360 Digital Eyes /360 Social Eyes Digital trainer
-          & Consultant
+        content: "I am proud to have you as a part of team 360 Digital Eyes and was bestowed with the opportunity of guiding and teaching you. Komal Ata, you are a very hard-working, motivated and capable girl who is capable enough to conquer this world.\_ May God bless\_ You have worked very hard with utmost dedication as a part of my team\_ Babar Hussain  Founder & Executive 360 Digital Eyes /360 Social Eyes Digital trainer & Consultant."
         type: testimonial
         avatar: images/123495194_201223891384190_6253951174501713603_n.jpg
   - title: Qualification
