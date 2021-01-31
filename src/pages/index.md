@@ -73,7 +73,7 @@ sections:
           very short time and with perfection and very little revisions.
   - title: Qualification
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: BS Software Engineering from SSUET (2016-2019).
     col_number: three
     is_numbered: false
     grid_items: []
