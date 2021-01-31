@@ -6,12 +6,12 @@ sections:
     type: section_hero
     title: 'Hi, I''m Komal Ata , Welcome to my portfolio'
     content: >
-      > I'm **Software Engineering**, & Freelancer +  work  as a Ui/Ux & Graphic
-      Designers in Botsify lnc.
+      > ##### I'm **Software Engineering**, & Freelancer +  work  as a Ui/Ux &
+      Graphic Designers in Botsify lnc.
 
       >
 
-      > I like to code, but Designing websites & apps is my passion.
+      > ##### I like to code, but Designing websites & apps is my passion.
     actions:
       - label: Let's talk
         url: /contact
