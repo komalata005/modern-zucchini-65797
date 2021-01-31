@@ -67,7 +67,7 @@ sections:
         avatar: images/39936644_672597303119395_6690154962229395456_o.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Ver friendly and does whatever you ask her to do.. i got almost 10
+          Very friendly and does whatever you ask her to do.. i got almost 10
           posters designed for my academy page and all of them were did in a
           very short time and with perfection and very little revisions.
   - section_id: latest-posts
