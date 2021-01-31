@@ -54,7 +54,7 @@ sections:
     col_number: three
     testimonials:
       - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
+        avatar: images/52043149_2501937016501520_8292390282914168832_o.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
           I am very  satisfied  from there work. I highly  recommend the
