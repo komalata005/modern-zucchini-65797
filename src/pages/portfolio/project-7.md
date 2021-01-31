@@ -1,5 +1,5 @@
 ---
-title: Derma
+title: Derma_dr_standee
 subtitle: Optional Project Subtitle
 date: '2018-01-15'
 thumb_image: images/superb-tomato.jpeg
