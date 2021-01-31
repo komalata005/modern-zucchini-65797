@@ -5,8 +5,13 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Komal Ata , Welcome to my portfolio'
-    content: |
-      > >
+    content: >
+      > I'm **BS Software Engineering**, from Ssuet , & **Freelancer**
+
+      >
+
+      > \+  work  as a Ui/Ux & Graphic Designers in Botsify lnc. I like to code,
+      but designing websites & apps is my passion.
     actions:
       - label: Let's talk
         url: /contact
