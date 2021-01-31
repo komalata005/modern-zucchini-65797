@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Education",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
                 "label": "Skills",
                 "url": "/style-guide/",
                 "style": "link"
