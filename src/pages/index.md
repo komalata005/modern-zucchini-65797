@@ -62,7 +62,7 @@ sections:
       - author: Hannan Sheikh
         avatar: images/67710123_2216317668658945_5448135752636432384_n.jpg
         avatar_alt: Hannan Sheikh photo
-        content: "Such a good experience to work with her. a really good and creative designer and very friendly.\_ Deliver everthing on time. highly recomended."
+        content: "Such a good experience to work with her. A really good and creative designer and very friendly.\_ Deliver everthing on time. highly recommended."
       - author: Wajiha Tabish
         avatar: images/39936644_672597303119395_6690154962229395456_o.jpg
         avatar_alt: Deegan Wallace's photo
