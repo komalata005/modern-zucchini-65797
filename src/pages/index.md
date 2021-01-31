@@ -57,8 +57,8 @@ sections:
         avatar: images/52043149_2501937016501520_8292390282914168832_o.jpg
         avatar_alt: Imarn ata photo
         content: >-
-          I am very  satisfied  from there work. I highly  recommend the
-          company  for web design work
+          I am very  satisfied  from work. I highly  recommend her for web
+          design work
       - author: Hannan Sheikh
         avatar: images/67710123_2216317668658945_5448135752636432384_n.jpg
         avatar_alt: Hannan Sheikh photo
