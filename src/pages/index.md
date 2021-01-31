@@ -50,7 +50,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: Komal Freelancing Work Reviews By Clients
     col_number: three
     testimonials:
       - author: Imran Ata
