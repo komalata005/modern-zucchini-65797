@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: 'Floral '
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/b72f70108754731.5fc5121e9c6fe.jpg
