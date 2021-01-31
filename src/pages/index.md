@@ -57,9 +57,8 @@ sections:
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          I am very  satisfied  from there work. I highly  recommend the
+          company  for web design work
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
