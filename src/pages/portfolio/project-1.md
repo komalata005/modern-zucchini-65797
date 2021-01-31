@@ -1,6 +1,6 @@
 ---
 title: Botsify Home Page
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-05-10'
 thumb_image: images/474eee110170567.5fe5c5e53ae9b.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
