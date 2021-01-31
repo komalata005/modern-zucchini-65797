@@ -74,7 +74,7 @@ sections:
         content: "I am proud to have you as a part of team 360 Digital Eyes and was bestowed with the opportunity of guiding and teaching you. Komal Ata, you are a very hard-working, motivated and capable girl who is capable enough to conquer this world.\_ May God bless\_ You have worked very hard with utmost dedication as a part of my team\_ Babar Hussain  Founder & Executive 360 Digital Eyes /360 Social Eyes Digital trainer & Consultant."
         type: testimonial
         avatar: images/123495194_201223891384190_6253951174501713603_n.jpg
-      - author: lorem-ipsum
+      - author: Creative UI designer for mobile apps.Stay blessed!!
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
         type: testimonial
