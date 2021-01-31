@@ -55,7 +55,7 @@ sections:
     testimonials:
       - author: Imran Ata
         avatar: images/52043149_2501937016501520_8292390282914168832_o.jpg
-        avatar_alt: Sean Salazar's photo
+        avatar_alt: Imarn ata photo
         content: >-
           I am very  satisfied  from there work. I highly  recommend the
           company  for web design work
