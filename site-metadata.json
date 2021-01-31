@@ -61,7 +61,8 @@
                 "url": "https://www.behance.net/komalata000602",
                 "style": "icon",
                 "icon_class": "fa-behance",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "LinkedIn",
