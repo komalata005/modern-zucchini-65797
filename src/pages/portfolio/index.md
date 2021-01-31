@@ -1,6 +1,6 @@
 ---
 title: Portfolio
 subtitle: Recent Work
-layout_style: tiles
+layout_style: mosaic
 template: portfolio
 ---
