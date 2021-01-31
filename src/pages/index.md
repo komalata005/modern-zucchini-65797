@@ -85,6 +85,7 @@ sections:
           Founder & Executive 360 Digital Eyes /360 Social Eyes Digital trainer
           & Consultant
         type: testimonial
+        avatar: images/123495194_201223891384190_6253951174501713603_n.jpg
   - title: Qualification
     section_id: lorem-ipsum
     subtitle: BS Software Engineering from SSUET (2016-2019).
