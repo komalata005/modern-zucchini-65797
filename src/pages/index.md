@@ -53,7 +53,7 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
-      - author: Sean Salazar
+      - author: Imran Ata
         avatar: images/52043149_2501937016501520_8292390282914168832_o.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
