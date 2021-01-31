@@ -84,7 +84,7 @@ sections:
         content: >-
           Awesome graphic design and animation videos for business. Professional
           Logo design and Grafics for website design UI designer for web and
-          mobile apps.11
+          mobile apps.
         type: testimonial
         avatar: images/30167909_171157203709387_6232671499475111054_o.jpg
   - title: Qualification
