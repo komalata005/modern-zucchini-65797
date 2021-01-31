@@ -35,7 +35,7 @@ sections:
       - title: Ui/Ux Designing
         content: >
           I would love to design User interface & Experience for your App &
-          Website, 
+          Website.
       - title: Graphic Designing
         content: >
           I provide illustrations, Icon, Menu, Invitations cards, social media
