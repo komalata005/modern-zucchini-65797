@@ -1,9 +1,9 @@
 {
-    "description": "A portfolio theme with a blog",
-    "color_scheme": "light",
+    "description": "",
+    "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "Komal Ata",
         "has_nav": true,
         "nav_links": [
             {
@@ -17,21 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
@@ -39,38 +24,40 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "Created By Komal Ata in 2021",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/komal_ata",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/komal.ata/",
                 "style": "icon",
                 "icon_class": "fa-instagram",
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Behance",
+                "url": "https://www.behance.net/komalata000602",
                 "style": "icon",
-                "icon_class": "fa-dribbble",
-                "new_window": true
+                "icon_class": "fa-behance",
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/komal-ata-8a8b0a159/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
             }
         ]
     },
-    "title": "Stackbit Exto Theme"
+    "title": "Portfolio",
+    "favicon": "images/symbol.png"
 }
